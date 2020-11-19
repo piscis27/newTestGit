@@ -79,6 +79,7 @@
       </div>
     </div>
   </div>
+ modif_card
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body">
@@ -87,6 +88,15 @@
         <a href="#" class="btn btn-primary">Go somewhere</a>
       </div>
     </div>
+
+  <div class="card-body">
+    <h5 class="card-title text-center my-4">Je m'appelle Nicolas</h5>
+    <p class="card-text">Je suis un fan du karcher.</p>
+    <a href="#" class="btn btn-primary shadow-lg">et toi à quoi tu joues?</a>
+  </div>
+  <div class="card-footer text-muted">
+    2 days ago
+ master
   </div>
 </div>
 
